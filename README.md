@@ -6,11 +6,11 @@ An interactive Excel dashboard for analyzing sales, orders, customers, products,
 
 ## Dashboard Preview
 
-![Amazon Sales Analysis Dashboard](images/amazon-dashboard.png)
+![Amazon Sales Dashboard](./Dashboard.png)
 
 ## Raw Data Preview
 
-![Amazon Sales Raw Data](images/amazon-raw-data.png)
+![Raw Practice Dataset](./Raw%20Practice%20Dataset.png)
 
 ## Project Overview
 
@@ -62,9 +62,7 @@ This workbook contains **39,966 order records** covering January 2023 to Decembe
 
 ## Project Files
 
-- [Download the Excel workbook](Amazon%20Sales%20Analysis%20Dashboard.xlsx)
-- Dashboard screenshot: `images/amazon-dashboard.png`
-- Raw data screenshot: `images/amazon-raw-data.png`
+[Download the Excel workbook](./Amazon%20Sales%20Analysis%20Dashboard.xlsx)
 
 ## How to Use
 
